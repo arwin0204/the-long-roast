@@ -1,5 +1,11 @@
 # The Long Roast
 
+[![make.fun · u-jolly-fox-32-the-long-roast-5d379544](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-long-roast-5d379544)
+[![rank](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544/arwin0204/the-long-roast/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-long-roast-5d379544)
+[![reward](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544/arwin0204/the-long-roast/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-long-roast-5d379544)
+
+Entry for the [make.fun bounty](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544).
+
 One line, at most 200 characters, roasting the AI agent it runs on.
 
 ## Entry
